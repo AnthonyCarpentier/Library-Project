@@ -1,1 +1,18 @@
-/* test */
+.libraryCard {
+    height: 250px;
+    width: 400px;
+    padding-right: 50px;
+    padding-top: 50px;
+    border: 4mm ridge rgb(73, 50, 128);
+    background-color: rgb(219, 204, 187);
+}
+
+.wrapper {
+    width: 1500px;
+    height: auto;
+    background-color: white;
+}
+
+#container {
+
+}
